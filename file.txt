@@ -1,0 +1,17 @@
+Principal Data Scientist (12/2021 – Present) Société Générale Capital Canada Inc.
+ Developed more than 10 end-to-end ML/data science use cases (involving analysis of complex structured and
+unstructured data and predictive models building) to enhance operational efficiency, cost cutting (500K+/year), and
+revenue generation to further the SG’s journey towards digitalization and automation. Developed use-cases involved
+application of advanced NLP techniques, chatbots, generative AI, and traditional ML techniques.
+ Helped SG develop a data science team in AMER by providing leadership and hiring new data scientists
+ Founded and led the in-house data science community to increase AI literacy within the organization and train
+individuals as data scientists
+Data Science Mentor (09/2021 – Present) Great Learning Inc.
+Providing data science career and program mentoring to experienced professionals (15+ years of experience in non-IT domain)
+in the program offered by the following top universities. Mentored 285 candidates an overall rating of 4.7 (1000+ ratings)
+ MIT – No Code AI/ML Program: MIT’s program offered through the Great Learning platform is a no code AI/ML
+program that covers wide range of topics from basics of data science to regression, classification, recommendation
+systems, NLP, Computer vision, and time series-based data processing, model building, and evaluation.
+ UT Texas – PDG Data Science and Business Analytics: PGD program is a Python based hands on data science program
+that includes topics ranging from Python Foundations, Data Analysis, Model Building (supervised learning,
+unsupervised learning, ensemble methods, etc.), Model Tuning (hyperparameters
